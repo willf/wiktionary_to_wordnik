@@ -1,4 +1,4 @@
-# wiktionary_to_wordnik
+# wiktionary_to_wordnik.py
 Converts Wiktionary JSON entries to ones more like Wordnik's 
 
 Requires:
